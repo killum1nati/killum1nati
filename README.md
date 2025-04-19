@@ -17,12 +17,6 @@ I'm a Linux enthusiast diving deep into low-level development. Currently, I'm ex
 - 🐪 Learn Perl
 - 🚀 Build an independent OS
 
-## 📬 Connect with Me
-
-- [Twitter](https://twitter.com/killum1nati)
-- [LinkedIn](https://www.linkedin.com/in/killum1nati)
-- [Email](mailto:killum1nati@example.com)
-
 ---
 
 <!-- Centered Statistics Section -->
@@ -39,8 +33,3 @@ I'm a Linux enthusiast diving deep into low-level development. Currently, I'm ex
 </p>
 
 ---
-
-<!-- Footer Section -->
-## 🎉 Thanks for visiting my profile!
-
-Feel free to explore my repositories and reach out if you're interested in collaborating or discussing low-level development topics.
