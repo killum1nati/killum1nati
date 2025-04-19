@@ -1,41 +1,47 @@
-<h1 align="center">Hello, I'm killum1nati! 🐦</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F00FF&width=435&lines=killum1nati;Low-level+Linux+enthusiast;Future+OS+Developer;NASM%2C+C%2C+Perl+learner" alt="Typing Animation" />
+</p>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=killum1nati&label=Profile+Views&color=7F00FF&style=flat" alt="Profile Views" />
+  <a href="https://github.com/killum1nati?tab=followers">
+    <img src="https://img.shields.io/github/followers/killum1nati?color=7F00FF&label=Followers&style=flat" alt="GitHub Followers" />
+  </a>
+</p>
 
-<ul>
+---
 
-Welcome to my little corner of code and nostalgia. I write in **C & JavaScript**. I love diving into **low-level things**, building web applications, and dreaming of one day creating my own **RPG in the Linux console**.
+### 🛠 **Технологии и инструменты**
+![](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
+![](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/-NASM-000000?style=flat&logo=assembly&logoColor=white)
+![](https://img.shields.io/badge/-Perl-39457E?style=flat&logo=perl&logoColor=white)
 
-## What I Do
-- Exploring how **hardware and systems** work under the hood.
-- Developing **web applications** — both frontend and backend.
-- Passionate about **free software**, because **code should be open**.
-- **Rust is not my thing**, but I respect those who use it.
-- I adore **MIT, Apache, BSD-3-Clause** licenses — code freedom above all.
+---
 
-## A Bit About Me
-Sometimes, I just turn on **Minecraft music** and take a trip down memory lane. In those moments, it feels like I'm alone with myself, watching my childhood flash before my eyes... :3
+### 🔥 **Мои цели**
+- 🖥️ **Создать свою ОС** на собственном языке  
+- 📚 **Изучить NASM**, углубиться в **Си**, освоить **Perl**  
+- 🚀 **Погрузиться в low-level разработку**  
 
-## How to Reach Me
-If you share my views or have interesting ideas, I'd love to chat! Feel free to message me if you want to discuss something cool. Let's make this world **a little more free and honest** together :)
-</ul>
+---
 
-###
+### 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=killum1nati&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=killum1nati&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
 
-<h2 align="center">Languages I work with 📜</h2>
+---
 
-###
+### 🎔 **Будущие проекты**
+```c
+#include <stdio.h>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="64" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="64" alt="c logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=killum1nati&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=default&hide_border=true&order=2" height="170" alt="languages graph"  />
-</div>
-
-###
+int main() {
+    printf("1. Независимая ОС\n");
+    printf("2. Собственный язык программирования\n");
+    printf("3. Low-level утилиты для Linux\n");
+    return 0;
+}
