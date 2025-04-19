@@ -45,5 +45,6 @@ int main() {
     printf("3. Low-level утилиты для Linux\n");
     return 0;
 }
+```
 
-<p align="center"> <img src="https://github.com/killum1nati/killum1nati/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" /> </p> ```
+<p align="center"> <img src="https://github.com/killum1nati/killum1nati/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" /> </p> 
