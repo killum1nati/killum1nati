@@ -31,5 +31,3 @@ I'm a Linux enthusiast diving deep into low-level development. Currently, I'm ex
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=killum1nati&theme=radical&hide_border=true" alt="killum1nati's Streak Stats" />
 </p>
-
----
