@@ -3,7 +3,6 @@
 ###
 
 <ul>
-# Hi, I'm killum1nati! 🐦
 
 Welcome to my little corner of code and nostalgia. I write in **C & JavaScript**. I love diving into **low-level things**, building web applications, and dreaming of one day creating my own **RPG in the Linux console**.
 
