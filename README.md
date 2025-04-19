@@ -21,13 +21,13 @@ I'm a Linux enthusiast diving deep into low-level development. Currently, I'm ex
 
 <!-- Centered Statistics Section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=killum1nati&show_icons=true&theme=radical&hide_title=true" alt="killum1nati's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=killum1nati&show_icons=true&theme=dark&hide_title=true" alt="killum1nati's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killum1nati&layout=compact&theme=radical" alt="killum1nati's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killum1nati&layout=compact&theme=dark" alt="killum1nati's Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=killum1nati&theme=radical&hide_border=true" alt="killum1nati's Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=killum1nati&theme=dark&hide_border=true" alt="killum1nati's Streak Stats" />
 </p>
