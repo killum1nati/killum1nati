@@ -1,5 +1,4 @@
-<!-- Header Section -->
-# Hello, I'm killum1nati 👾
+# Hello, I'm Aph0nic
 
 I'm a Linux enthusiast diving deep into low-level development. Currently, I'm exploring NASM, enhancing my C skills, and learning Perl. My ultimate goal is to develop an independent operating system using my own programming language.
 
@@ -12,22 +11,21 @@ I'm a Linux enthusiast diving deep into low-level development. Currently, I'm ex
 
 ## 🎯 My Learning Path
 
-- 🧠 Master NASM
-- 💻 Deepen C knowledge
-- 🐪 Learn Perl
-- 🚀 Build an independent OS
+- Master NASM
+- Deepen C knowledge
+- Learn Perl
+- Build an independent OS
 
 ---
 
-<!-- Centered Statistics Section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=killum1nati&show_icons=true&theme=dark&hide_title=true" alt="killum1nati's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aph0nic&show_icons=true&theme=dark&hide_title=true" alt="Aph0nic's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killum1nati&layout=compact&theme=dark" alt="killum1nati's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aph0nic&layout=compact&theme=dark" alt="Aph0nic's Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=killum1nati&theme=dark&hide_border=true" alt="killum1nati's Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Aph0nic&theme=dark&hide_border=true" alt="Aph0nic's Streak Stats" />
 </p>
